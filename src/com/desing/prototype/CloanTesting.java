@@ -1,7 +1,7 @@
 package com.desing.prototype;
 
 public class CloanTesting {
-	public static void main(String[] argv){
+	/*public static void main(String[] argv){
 		Sheep sheep = new Sheep();
 		Dog dog = new Dog();
 		
@@ -9,5 +9,5 @@ public class CloanTesting {
 		Animal a2 = ClonFactory.makeAnimal(dog);
 		System.out.println(a1);
 		System.out.println(a2);		
-	}
+	}*/
 }
